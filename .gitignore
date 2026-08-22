@@ -1,0 +1,24 @@
+# Node
+node_modules/
+**/node_modules/
+# 构建产物
+dist/
+**/dist/
+# 数据库文件（SQLite 数据是运行时生成的）
+*.db
+*.db-journal
+# 环境变量
+.env
+.env.local
+!.env.example
+# 日志
+*.log
+logs/
+# 编辑器
+.vscode/
+!.vscode/settings.json
+.idea/
+.DS_Store
+Thumbs.db
+# 系统
+desktop.ini
