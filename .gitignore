@@ -23,3 +23,5 @@ Thumbs.db
 # 系统
 desktop.ini
 NUL
+/package.json
+/package-lock.json
